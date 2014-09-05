@@ -43,11 +43,11 @@
     <!-- Message in confirmation dialog informing the entityClazz that a network error occurred. [CHAR LIMIT=NONE] -->
     <string name="common_google_play_services_network_error_text">A data connection is required to connect to Google Play services.</string>
 
-    <!-- Title of confirmation dialog informing the entityClazz that they provided an invalid userAccountName. [CHAR LIMIT=40] -->
+    <!-- Title of confirmation dialog informing the entityClazz that they provided an invalid userGoogleAccountEmail. [CHAR LIMIT=40] -->
     <string name="common_google_play_services_invalid_account_title">Invalid Account</string>
 
-    <!-- Message in confirmation dialog informing the entityClazz that they provided an invalid userAccountName. [CHAR LIMIT=NONE] -->
-    <string name="common_google_play_services_invalid_account_text">The specified userAccountName does not exist on this device. Please choose a different userAccountName.</string>
+    <!-- Message in confirmation dialog informing the entityClazz that they provided an invalid userGoogleAccountEmail. [CHAR LIMIT=NONE] -->
+    <string name="common_google_play_services_invalid_account_text">The specified userGoogleAccountEmail does not exist on this device. Please choose a different userGoogleAccountEmail.</string>
 
     <!-- Message in confirmation dialog informing entityClazz there is an unknown issue in Google Play
         services [CHAR LIMIT=NONE] -->
