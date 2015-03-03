@@ -29,9 +29,22 @@ proguard/
 *.iws
 workspace.xml
 tasks.xml
+compiler.xml
+modules.xml
+findbugs-idea.xml
+.idea/compiler.xml
+.idea/modules.xml
+.idea/findbugs-idea.xml
+gitk
 **/.idea/workspace.xml 
 **/.idea/tasks.xml
+**/.idea/modules.xml
+**/.idea/compiler.xml
 **/.idea/libraries/
+**/.idea/artifacts/
+**/.idea/findbugs-idea.xml
+**/*crashlytics*
+**/.config/git/gitk
 
 *.log
 *.gz
