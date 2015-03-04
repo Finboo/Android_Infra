@@ -46,6 +46,7 @@ gitk
 **/*crashlytics*
 **/.config/git/gitk
 **/proguard_logs/*.txt
+**/*.iml
 
 *.log
 *.gz
