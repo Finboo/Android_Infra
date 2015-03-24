@@ -6,7 +6,7 @@
 
     <groupId>android_infra.google-play-services_lib</groupId>
     <artifactId>android_infra.google-play-services_lib</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>REV-22-6587000</version>
     <packaging>jar</packaging>
 
     
